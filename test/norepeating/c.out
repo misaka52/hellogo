@@ -1,0 +1,9 @@
+mode: set
+hellogo/test/norepeating/norepeating.go:6.48,10.38 4 1
+hellogo/test/norepeating/norepeating.go:19.2,19.15 1 1
+hellogo/test/norepeating/norepeating.go:10.38,11.66 1 1
+hellogo/test/norepeating/norepeating.go:14.3,14.25 1 1
+hellogo/test/norepeating/norepeating.go:17.3,17.23 1 1
+hellogo/test/norepeating/norepeating.go:11.66,13.4 1 1
+hellogo/test/norepeating/norepeating.go:14.25,16.4 1 1
+hellogo/test/norepeating/norepeating.go:22.13,32.2 1 0
